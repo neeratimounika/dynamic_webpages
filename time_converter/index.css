@@ -1,0 +1,38 @@
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png');
+    height: 100vh;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.main-para {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.input-label {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.error-msg {
+    color: #f5f7fa;
+    font-family: "Open Sans";
+    font-size: 10px;
+    font-weight: 200;
+}
+
+.sec-convert-para {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}

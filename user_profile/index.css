@@ -1,0 +1,25 @@
+.profile-container {
+    color: white;
+    background-color: #b990ff;
+    height: 100vh;
+}
+
+.profile-img {
+    width: 200px;
+}
+
+.profile-name {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+
+    margin-top: 20px;
+}
+
+.profile-age {
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+}
